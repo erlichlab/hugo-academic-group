@@ -1,4 +1,7 @@
 +++
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+date = {{ .Date }}
+draft = true
 description = ""
 short_description = ""
 project_id = ""

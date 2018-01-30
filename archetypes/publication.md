@@ -1,4 +1,7 @@
 +++
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+date = {{ .Date }}
+draft = true
 abstract = ""
 abstract_short = ""
 authors = [""]

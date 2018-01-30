@@ -4,7 +4,7 @@ An academic group website theme for Hugo.
 
 
 ## Installation
-
+  
  1. Install [Hugo](https://gohugo.io/) and create a new website:
 
  ```
