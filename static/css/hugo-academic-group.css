@@ -19,7 +19,7 @@ html {
 }
 
 header{
-    background-image: url("/img/header.jpg");
+    /* background-image: url("/img/header.jpg"); */
     background-size: cover;
     text-align: center;
     color: #fff;
@@ -52,7 +52,7 @@ header{
     margin-bottom: 50px;
     font-size: 16px;
     font-weight: 300;
-    color: rgba(255,255,255,.7);
+    color: rgba(255,255,255,1);
 }
 
 .slogan-column {
@@ -757,7 +757,8 @@ footer a#back_to_top i {
 }
 
 nav#navbar-main li {
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .navbar-default .navbar-nav li a,
